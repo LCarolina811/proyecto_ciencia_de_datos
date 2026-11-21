@@ -1,0 +1,12 @@
+2026-11-20 22:10:35,340 | INFO | flows.00_ingestion | Leyendo fuente: C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-0\test_run_writes_bronze_and_met0\fake.csv
+2026-11-20 22:10:35,410 | INFO | flows.00_ingestion | Bronze listo: 3 etiquetados, 2 sin etiqueta
+2026-11-20 22:10:35,416 | INFO | flows.00_ingestion | Leyendo fuente: C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-0\test_bronze_is_an_unmodified_c0\fake.csv
+2026-11-20 22:10:35,435 | INFO | flows.00_ingestion | Bronze listo: 3 etiquetados, 2 sin etiqueta
+2026-11-20 22:10:37,230 | INFO | flows.03_aggregation | Gold listo: 11 tablas en C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-0\test_run_writes_gold_tables0\gold
+2026-11-20 22:10:37,407 | INFO | flows.05_ml_models | Modelo guardado en C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-0\test_save_and_load_roundtrip0\toy_model.joblib
+2026-11-20 22:11:20,148 | INFO | flows.00_ingestion | Leyendo fuente: C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-1\test_run_writes_bronze_and_met0\fake.csv
+2026-11-20 22:11:20,176 | INFO | flows.00_ingestion | Bronze listo: 3 etiquetados, 2 sin etiqueta
+2026-11-20 22:11:20,185 | INFO | flows.00_ingestion | Leyendo fuente: C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-1\test_bronze_is_an_unmodified_c0\fake.csv
+2026-11-20 22:11:20,214 | INFO | flows.00_ingestion | Bronze listo: 3 etiquetados, 2 sin etiqueta
+2026-11-20 22:11:20,406 | INFO | flows.03_aggregation | Gold listo: 11 tablas en C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-1\test_run_writes_gold_tables0\gold
+2026-11-20 22:11:20,548 | INFO | flows.05_ml_models | Modelo guardado en C:\Users\DELL\AppData\Local\Temp\pytest-of-DELL\pytest-1\test_save_and_load_roundtrip0\toy_model.joblib
